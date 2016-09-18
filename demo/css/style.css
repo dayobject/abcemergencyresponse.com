@@ -404,7 +404,8 @@
 	}
 
 	.st-service p{
-		color: #11449C;
+		font-weight: bold;
+		color: #006CE0;
 		font-size:16px;
 	}
 
